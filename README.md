@@ -1,6 +1,6 @@
 ##### Projeto desenvolvido durante o Hiring Coders #2.
 
-Acesse: <a href="#" target="_blank">Landing Page</a>
+Projeto Online: <a href="https://landing-page-hiring-coders-2.vercel.app/" target="_blank">Landing Page</a>
 
 ### Projeto desenvolvido com:
 
@@ -31,5 +31,4 @@ $ yarn start
 
 ### Print da Aplicação
 
-> Página Home<br>
-> ![](https://github.com/WebertonMendes/LandingPageHC/blob/main/src/assets/LandingPageHC.png?raw=true)<br>
+> Página Home<br> > ![](https://github.com/WebertonMendes/LandingPageHC/blob/main/src/assets/LandingPageHC.png?raw=true)<br>
